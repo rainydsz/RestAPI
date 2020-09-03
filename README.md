@@ -1,7 +1,7 @@
 # Automated test cases for performing the User CRUD Operations on Rest API's available at https://reqres.in/ using the Java RestAssured Library
 
 ---
-## The below endpoints were tested throughly:
+## The below endpoints were tested thoroughly:
 1) /api/users
 2) /api/users/{userId}
 ---
